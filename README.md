@@ -48,9 +48,9 @@ After establishing the SQL database, I used R for advanced cleaning and statisti
 
 ## 📊 Visual Insights
 ### Clinical Audit: Age vs. Readmission
-![Bar Chart]()
+![Bar Chart](https://github.com/jakut32/Hospital-Readmission-SQL-Audit/blob/main/R_Analysis/age_readmission_bar_chart.png)
 *This chart identifies a high-risk readmission spike in the [20-30) age demographic.*
 
 ### Statistical Validation: Stay Duration vs. Complexity
-![Box Plot]()
+![Box Plot](https://github.com/jakut32/Hospital-Readmission-SQL-Audit/blob/main/R_Analysis/age_readmission_box_plot.png)
 *The vertical **height** of these boxes proves our T-test result: complex patients (9+ diagnoses) stay 1.2 days longer than simple cases.*
