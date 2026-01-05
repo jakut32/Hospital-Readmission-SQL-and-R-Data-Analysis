@@ -9,7 +9,7 @@ This project performs a deep-dive audit into 101,766 diabetic patient encounters
 
 ## 📊 Key Clinical Findings
 
-### 1. The "Down" Insulin Effect (Medication Stability)
+### 1. The "Down" Insulin Effect 
 **Finding:** Patients whose insulin dosage was **decreased (Down)** right before discharge had the highest readmission rates.
 **Insight:** A dosage reduction usually follows a "sugar crash" (Hypoglycemia). These patients are metabolically unstable and require more supervision than those on a "Steady" dose.
 
